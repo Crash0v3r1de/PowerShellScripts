@@ -6,7 +6,7 @@
 
 # Scripts Completed
 ---
-Bursar Printer Fix - User Level
+[Bursar Printer Fix - User Level](https://github.com/Crash0v3r1de/PowerShellScripts/blob/master/SCCM_Bursar_Printer_Fix.ps1)
 
 
 
