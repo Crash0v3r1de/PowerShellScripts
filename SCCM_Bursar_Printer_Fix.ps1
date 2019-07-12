@@ -66,13 +66,13 @@ Function ReturnFailure{
 if($debug){echo "Failed adding printer!"}
 # This includes the script exit handling and system exit handling
 #[System.Environment]::Exit(1) # Return code for failure
-Exit 0 # Script return code for failure
+Exit 1 # Script return code for failure
 }
 Function ReturnSuccess{
 if($debug){echo "Printer added!"}
 # This includes the script exit handling and system exit handling
 #[System.Environment]::Exit(0) # Return code for success - GG
-Exit 1 # Script return code for success - GG
+Exit 0 # Script return code for success - GG
 }
 
 # Script Invokes
