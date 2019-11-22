@@ -6,7 +6,7 @@
 ## Install the driver
 ## Then add the printer and wipe tmp files
 ## Created 11/22/2019
-## Created by Nate Faulds - nb.faulds@gmail.com
+## Created by Nate Faulds
 ## Use case for local print server for a department that needs items added not via JAMF
 ## Added the echo color stuff so the script isn't blank, no validation for now but can add later
 
