@@ -11,7 +11,7 @@
 
 [Simple Print Queue Health Reporting](https://github.com/Crash0v3r1de/PowerShellScripts/blob/master/PrintQueue_SimpleMonitor.ps1)
 
-
+[OSX Print Driver and Install Utility - special use case](https://github.com/Crash0v3r1de/UsefulScripts/blob/master/printer_add.sh)
 
 
 # Scripts Pending
