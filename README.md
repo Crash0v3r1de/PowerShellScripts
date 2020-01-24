@@ -13,6 +13,9 @@
 
 [OSX Print Driver and Install Utility - special use case](https://github.com/Crash0v3r1de/UsefulScripts/blob/master/printer_add.sh)
 
+[Office Cloud AutoSave Disable Script - Per User Execution](https://github.com/Crash0v3r1de/UsefulScripts/blob/master/O365AutoSave_Disable-PerUser.ps1)
+
+[Office Cloud AutoSave Disable Script - Process All Users](https://github.com/Crash0v3r1de/UsefulScripts/blob/master/O365AutoSave_Disable-AllUsers.ps1)
 
 # Scripts Pending
 ---
